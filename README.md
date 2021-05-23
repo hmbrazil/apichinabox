@@ -15,7 +15,7 @@
   - MongoDB Compass:  Para criação das 'collections' que armazenarão os dados, visualização dos dados e operações/alterações manuais nos registros e configuração do banco - disponível em: https://www.mongodb.com/products/compass;
   - Qualquer IDE para edição do projeto e criação do arquivo .ENV (com suporte para a linguagem Javascript);
 
-  * Para instalação dos requisitos seguintes, com o NodeJS já instalado, execute os comandos abaixo no terminal do sistema operacional:
+  >> Para instalação dos requisitos seguintes, com o NodeJS já instalado, execute os comandos abaixo no terminal do sistema operacional:
 
   - Express
     npm install --save express
