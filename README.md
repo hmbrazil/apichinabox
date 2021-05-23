@@ -17,16 +17,16 @@
 
   ! Para instalação dos requisitos seguintes, com o NodeJS já instalado, execute os comandos abaixo no terminal do sistema operacional:
 
-  - Express
+  - Express:
     npm install --save express
   
-  - Nodemon
+  - Nodemon:
     npm install --save-dev nodemon
         
-  - dotenv
+  - Dotenv:
     npm install --save-dev dotenv
   
-  - Mongoose
+  - Mongoose:
     npm install --save mongoose    
 
 > Instruções para execução do projeto:
